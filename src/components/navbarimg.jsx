@@ -2,7 +2,7 @@ import '../assets/css/nav_img.css'
 
 const NavBarImg = ({ title, text }) => {
 
-    //Dividir el texto en 2 
+    //Dividir el texto en 2 se podria mejorar añadiendole un .Map
     const divicion = text.split(",")
 
     return (
