@@ -1,6 +1,6 @@
-# React + Vite
+# StreetWiseFitnes x React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Remake del proyecto StreetWiseFitnes ahora con React + vite.
 
 Currently, two official plugins are available:
 
