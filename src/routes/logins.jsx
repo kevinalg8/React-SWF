@@ -1,6 +1,4 @@
 import '../assets/css/login.css'
-import App from '../App.jsx'
-import { Link } from 'react-router'
 
 const login = () => { 
     return(
@@ -31,7 +29,6 @@ const login = () => {
                 <div className=''>
                   <a href="Inicio">
                     <p className="text-center mt-3" value="">Continuar Sin Iniciar Sesion</p>
-                    <Link to={App}></Link>
                   </a>
                 </div>
               </form>
