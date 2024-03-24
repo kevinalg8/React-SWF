@@ -8,13 +8,13 @@ const Suplies = () => {
                             <div id="carouselExampleSlidesOnly" className="carousel slide" data-bs-ride="carousel">
                                 <div className="carousel-inner">
                                     <div className="carousel-item active">
-                                        <img src="/img/sup.jpg" className="w-100" alt="..." />
+                                        <img src="/src/assets/img/sup.jpg" className="w-100" alt="..." />
                                     </div>
                                     <div className="carousel-item">
-                                        <img src="/img/equi.jpg" className="w-100" alt="..." />
+                                        <img src="/src/assets/img/equi.jpg" className="w-100" alt="..." />
                                     </div>
                                     <div className="carousel-item">
-                                        <img src="/img/vit.jpg" className="w-100" alt="..." />
+                                        <img src="/src/assets/img/vit.jpg" className="w-100" alt="..." />
                                     </div>
                                 </div>
                             </div>

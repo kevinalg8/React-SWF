@@ -5,7 +5,7 @@
     font-size: 65px;
 }
 .banner-image{
-    background-image: url(/img/Inicio.jpg);
+    background-image: url(/src/assets/img/Inicio.jpg);
     background-size: cover;
     margin-left: 1%;
     border-radius: 15px;

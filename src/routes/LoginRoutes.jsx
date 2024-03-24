@@ -1,13 +1,14 @@
 import Login from "../components/logins"
+import CreateAccount from '../components/registroUsuario'
 
-export const login = ()=>{
+export const login = () =>{
     return(
         <Login/>
     )
 }
 
-export const register = ()=>{
+export const createAccount = ()=>{
     return(
-        <h1>Hola aqui va ir el registro</h1>
+        <CreateAccount/>
     )
 }
