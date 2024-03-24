@@ -1,4 +1,4 @@
-import '../assets/css/navbar.css'
+import '../css/navbar.css'
 import NavBarImg from './navbarimg.jsx'
 
 const NavBar = () => {

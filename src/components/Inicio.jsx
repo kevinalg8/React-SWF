@@ -1,5 +1,5 @@
+import '../css/inicio.css'
 import Card from './cards.jsx';
-import '../assets/css/inicio.css'
 import Footer from './footer.jsx';
 import Suplies from './suplies.jsx';
 
@@ -43,8 +43,8 @@ const Inicio = () => {
             </div>
         </div>
         <Suplies/>
-         <Footer/>
-         </>
+        <Footer/>
+        </>
     );
 };
 

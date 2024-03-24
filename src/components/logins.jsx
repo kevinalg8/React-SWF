@@ -1,8 +1,10 @@
-import '../assets/css/login.css'
+import { Link } from 'react-router-dom'
+import '../css/login.css'
 
 const login = () => { 
     return(
-        <body className="cont">
+      <>
+        <div className="cont">
         <div className="container">
           <div className="col-md-9 card mx-auto d-flex flex-row px-0">
             <div className="p-left d-md-flex flex-column d-none">
@@ -27,15 +29,16 @@ const login = () => {
                   </a>
                 </div>
                 <div className=''>
-                  <a href="Inicio">
-                    <p className="text-center mt-3" value="">Continuar Sin Iniciar Sesion</p>
-                  </a>
+                  <Link to={"/index"}>
+                  <p className="text-center mt-3" value="">Continuar Sin Iniciar Sesion</p>
+                  </Link>
                 </div>
               </form>
             </div>
           </div>
           </div>
-      </body>
+      </div>
+      </>
     )
  }
 export default login

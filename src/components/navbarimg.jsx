@@ -1,4 +1,4 @@
-import '../assets/css/nav_img.css'
+import '../css/nav_img.css'
 
 const NavBarImg = ({ title, text }) => {
 

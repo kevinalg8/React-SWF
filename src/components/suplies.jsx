@@ -1,5 +1,4 @@
 const Suplies = () => { 
-
     return(
         <>
             <div id="about" className="about">
@@ -9,13 +8,13 @@ const Suplies = () => {
                             <div id="carouselExampleSlidesOnly" className="carousel slide" data-bs-ride="carousel">
                                 <div className="carousel-inner">
                                     <div className="carousel-item active">
-                                        <img src="public/img/sup.jpg" className="w-100" alt="..." />
+                                        <img src="/img/sup.jpg" className="w-100" alt="..." />
                                     </div>
                                     <div className="carousel-item">
-                                        <img src="public/img/equi.jpg" className="w-100" alt="..." />
+                                        <img src="/img/equi.jpg" className="w-100" alt="..." />
                                     </div>
                                     <div className="carousel-item">
-                                        <img src="public/img/vit.jpg" className="w-100" alt="..." />
+                                        <img src="/img/vit.jpg" className="w-100" alt="..." />
                                     </div>
                                 </div>
                             </div>
