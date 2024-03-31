@@ -23,7 +23,7 @@ const Suplies = () => {
                             <h3>Suplementos y equipamento</h3>
                             <h2>Maximiza tu Potencial con Suplementos, Vitaminas y Equipamiento Deportivo</h2>
                             <p>Te ofrecemos una amplia selección de suplementos deportivos y equipamiento de calidad. Potencia tus entrenamientos y alcanza tus metas fitness con nuestra variedad de productos confiables y efectivos. Desde proteínas y vitaminas hasta pesas y accesorios, en SWF encontrarás todo lo que necesitas para llevar tu rendimiento al máximo nivel.</p>
-                            <a href="#" className="read-more"><span>Ver Productos</span><i className="bi bi-arrow-right"></i></a>
+                            <a href="/Products" className="read-more"><span>Ver Productos</span><i className="bi bi-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>

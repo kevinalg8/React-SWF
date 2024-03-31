@@ -3,6 +3,10 @@ import Card from './cards.jsx';
 import Footer from './footer.jsx';
 import Suplies from './suplies.jsx';
 
+/* API MERCADO LIBRE
+https://api.mercadolibre.com/sites/MCO/search?nickname=TUMEJORCOMPRA0
+*/
+
 const Inicio = () => {
     return (
         <>
