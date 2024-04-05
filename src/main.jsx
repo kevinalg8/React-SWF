@@ -20,7 +20,7 @@ const routes = createBrowserRouter([
   },
   {
     path: "/Products",
-    element: <InicioRoutes.productos/>,
+    element: <InicioRoutes.getProductos/>,
   },
 ]
 );

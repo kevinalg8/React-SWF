@@ -1,6 +1,6 @@
 import Productos from '../components/Productos.jsx'
 
-export const productos = () =>{
+export const getProductos = () =>{
     return(
         <Productos/>
     )
